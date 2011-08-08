@@ -26,6 +26,8 @@ module Tuk
           "0" + number[2..-1]
         elsif number[0..3] == "0044"
           "0" + number[4..-1]
+        else
+          number
         end
       end
       
