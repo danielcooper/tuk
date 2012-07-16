@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "tuk"
-  s.version = "0.1.2"
+  s.name = %q{tuk}
+  s.version = "0.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Daniel Cooper"]
-  s.date = "2012-02-14"
-  s.description = "A small library for sorting out uk telephone numbers"
-  s.email = "daniel@14lines.com"
+  s.date = %q{2012-07-16}
+  s.description = %q{A small library for sorting out uk telephone numbers}
+  s.email = %q{daniel@14lines.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
@@ -30,11 +30,11 @@ Gem::Specification.new do |s|
     "test/test_tuk.rb",
     "tuk.gemspec"
   ]
-  s.homepage = "http://github.com/danielcooper/tuk"
+  s.homepage = %q{http://github.com/danielcooper/tuk}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
-  s.summary = "A small library for sorting out uk telephone numbers"
+  s.rubygems_version = %q{1.4.2}
+  s.summary = %q{A small library for sorting out uk telephone numbers}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
