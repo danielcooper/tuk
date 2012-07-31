@@ -47,7 +47,7 @@ module Tuk
       
       def area_codes
         @_area_codes || begin
-          codes = CSV.read(File.dirname(__FILE__) + '/area_codes.csv').drop(1).map{|n| n.first}
+          codes = CSV.read(File.dirname(__FILE__) + '/area_codes.csv').drop(1).map{|n| "0" + n[1]}
         end
       end      
       

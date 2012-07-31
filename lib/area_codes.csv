@@ -1,619 +1,663 @@
-Code,Ofcom Definition,Traditional BT Definition,Notes
-0113,Leeds,Leeds,
-0114,Sheffield,Sheffield,
-0115,Nottingham,Nottingham,
-0116,Leicester,Leicester,
-0117,Bristol,Bristol Inner,
-0118,Reading,Reading,
-01200,Clitheroe,Clitheroe,
-01202,Bournemouth,Bournemouth,
-01204,Bolton,Bolton,
-01205,Boston,Boston,
-01206,Colchester,Colchester,
-01207,Consett,Consett,
-01208,Bodmin,Bodmin,
-01209,Redruth,Redruth,
-0121,Birmingham,Birmingham,
-01223,Cambridge,Cambridge,
-01224,Aberdeen,Aberdeen,
-01225,Bath,Bath,
-01226,Barnsley,Barnsley,
-01227,Canterbury,Canterbury,
-01228,Carlisle,Carlisle,
-01229,Barrow-in Furness / Millom,Barrow-in Furness / Millom,
-01233,Ashford (Kent),Ashford (Kent),
-01234,Bedford,Bedford,
-01235,Abingdon,Abingdon,
-01236,Coatbridge,Coatbridge,
-01237,Bideford,Bideford,
-01239,Cardigan,Cardigan,
-01241,Arbroath,Arbroath,
-01242,Cheltenham,Cheltenham,
-01243,Chichester,Chichester,
-01244,Chester,Chester,
-01245,Chelmsford,Chelmsford,
-01246,Chesterfield,Chesterfield,
-01248,Bangor (Gwynedd),Bangor (Gwynedd),
-01249,Chippenham,Chippenham,
-01250,Blairgowrie,Blairgowrie,
-01252,Aldershot,Aldershot,
-01253,Blackpool,Blackpool,
-01254,Blackburn,Blackburn,
-01255,Clacton-on-Sea,Clacton-on-Sea,
-01256,Basingstoke,Basingstoke,
-01257,Coppull,Coppull,
-01258,Blandford,Blandford,
-01259,Alloa,Alloa,
-01260,Congleton,Congleton (see also 01477),
-01261,Banff,Banff,
-01262,Bridlington,Bridlington,
-01263,Cromer,Cromer,
-01264,Andover,Andover,
-01267,Carmarthen,Carmarthen,
-01268,Basildon,Stanford-le-Hope (see also 01375),
-01269,Ammanford,Ammanford,
-01270,Crewe,Crewe,
-01271,Barnstaple,Barnstaple,
-01273,Brighton,Brighton,
-01274,Bradford,Bradford,
-01275,Clevedon,Bristol Outer,
-01276,Camberley,Ascot (see also 01344),
-01277,Brentwood,Brentwood,
-01278,Bridgwater,Bridgwater,
-01279,Bishops Stortford,Bishops Stortford,
-01280,Buckingham,Buckingham,
-01282,Burnley,Burnley,
-01283,Burton-on-Trent,Burton-on-Trent,
-01284,Bury-St-Edmunds,Bury-St-Edmunds,
-01285,Cirencester,Cirencester,
-01286,Caernarvon,Caernarvon,
-01287,Guisborough,Guisborough,
-01288,Bude,Bude,
-01289,Berwick-on-Tweed,Berwick-on-Tweed,
-01290,Cumnock,Cumnock,
-01291,Chepstow,Shirenewton,
-01292,Ayr,Ayr,
-01293,Crawley,Newdigate (see also 01306),
-01294,Ardrossan,Ardrossan,
-01295,Banbury,Banbury,
-01296,Aylesbury,Aylesbury,
-01297,Axminster,Axminster,
-01298,Buxton,Buxton,
-01299,Bewdley,Bewdley,
-01300,Cerne Abbas,Cerne Abbas,
-01301,Arrochar,Arrochar,
-01302,Doncaster,Doncaster,
-01303,Folkestone,Folkestone,
-01304,Dover,Dover,
-01305,Dorchester,Dorchester,
-01306,Dorking,Newdigate (see also 01293),
-01307,Forfar,Forfar,
-01308,Bridport,Bridport,
-01309,Forres,Forres,
-0131,Edinburgh,Edinburgh,
-01320,Fort Augustus,Fort Augustus,
-01322,Dartford,Swanley (see also 01689 and 01959),
-01323,Eastbourne,Eastbourne,
-01324,Falkirk,Falkirk,
-01325,Darlington,Darlington,
-01326,Falmouth,Falmouth,
-01327,Daventry,Weedon,
-01328,Fakenham,Fakenham,
-01329,Fareham,Fareham (see also 01489),
-01330,Banchory,Banchory,
-01332,Derby,Derby,
-01333,Peat Inn,Peat Inn (see also 01334),
-01334,St Andrews,Peat Inn (see also 01333),
-01335,Ashbourne,Ashbourne,
-01337,Ladybank,Ladybank,
-01339,Aboyne / Ballater,Aboyne / Ballater,
-01340,Craigellachie,Craigellachie,
-01341,Barmouth,Barmouth,
-01342,East Grinstead,East Grinstead,
-01343,Elgin,Elgin,
-01344,Bracknell,Ascot (see also 01276),
-01346,Fraserburgh,Fraserburgh,
-01347,Easingwold,Easingwold,
-01348,Fishguard,Fishguard,
-01349,Dingwall,Dingwall,
-01350,Dunkeld,Dunkeld,
-01352,Mold,Mold,
-01353,Ely,Ely,
-01354,Chatteris,Doddington,
-01355,East Kilbride,East Kilbride (see also 01357),
-01356,Brechin,Brechin,
-01357,Strathaven,East Kilbride (see also 01355),
-01358,Ellon,Ellon,
-01359,Pakenham,Pakenham,
-01360,Killearn,Killearn,
-01361,Duns,Duns,
-01362,Dereham,Dereham,
-01363,Crediton,Crediton,
-01364,Ashburton,Ashburton,
-01366,Downham Market,Downham Market,
-01367,Faringdon,Faringdon,
-01368,Dunbar,Dunbar,
-01369,Dunoon,Dunoon,
-01371,Great Dunmow,Great Dunmow,
-01372,Esher,Esher (see also 01932),
-01373,Frome,Frome,
-01375,Grays Thurrock,Stanford-le-Hope (see also 01268),
-01376,Braintree,Braintree,
-01377,Driffield,Driffield,
-01379,Diss,Diss,
-01380,Devizes,Devizes,
-01381,Fortrose,Fortrose,
-01382,Dundee,Dundee,
-01383,Dunfermline,Dunfermline,
-01384,Dudley,Stourbridge (see also 01562),
-01386,Evesham,Evesham,
-01387,Dumfries,Dumfries,
-013873,Langholm,Langholm,
-01388,Bishop Auckland / Stanhope,Bishop Auckland / Stanhope,
-01389,Dumbarton,Dumbarton,
-01392,Exeter,Exeter,
-01394,Felixstowe,Shottisham,
-01395,Budleigh Salterton,Budleigh Salterton,
-01397,Fort William,Fort William,
-01398,Dulverton,Dulverton,
-01400,Honington,Honington,
-01403,Horsham,Horsham,
-01404,Honiton,Honiton,
-01405,Goole,Goole,
-01406,Holbeach,Holbeach,
-01407,Holyhead,Holyhead,
-01408,Golspie,Golspie,
-01409,Holsworthy,Holsworthy,
-0141,Glasgow,Glasgow,
-01420,Alton,Alton,
-01422,Halifax,Halifax,
-01423,Boroughbridge / Harrogate,Boroughbridge / Harrogate,
-01424,Hastings,Hastings,
-01425,Ringwood,Burley,
-01427,Gainsborough,Gainsborough,
-01428,Haslemere,Haslemere,
-01429,Hartlepool,Hartlepool,
-01430,Market Weighton / North Cave,Market Weighton / North Cave,
-01431,Helmsdale,Helmsdale,
-01432,Hereford,Hereford,
-01433,Hathersage,Hathersage,
-01434,Bellingham / Haltwhistle / Hexham,Bellingham / Haltwhistle / Hexham,
-01435,Heathfield,Heathfield,
-01436,Helensburgh,Helensburgh,
-01437,Clynderwen / Haverfordwest,Clynderwen / Haverfordwest,
-01438,Stevenage,Knebworth (see also 01920),
-01439,Helmsley,Helmsley,
-01440,Haverhill,Haverhill,
-01442,Hemel Hempstead,Markyate (see also 01582),
-01443,Pontypridd,Pontypridd,
-01444,Haywards Heath,Haywards Heath,
-01445,Gairloch,Gairloch,
-01446,Barry,Barry,
-01449,Stowmarket,Stowmarket,
-01450,Hawick,Hawick,
-01451,Stow-on-the-Wold,Bourton-on-the-Water,
-01452,Gloucester,Gloucester,
-01453,Dursley,Dursley,
-01454,Chipping Sodbury,Rangeworthy,
-01455,Hinckley,Hinckley,
-01456,Glenurquhart,Glenurquhart,
-01457,Glossop,Glossop,
-01458,Glastonbury,Glastonbury,
-01460,Chard,Chard,
-01461,Gretna,Annan,
-01462,Hitchin,Hitchin,
-01463,Inverness,Inverness,
-01464,Insch,Insch,
-01465,Girvan,Girvan,
-01466,Huntly,Huntly,
-01467,Inverurie,Inverurie,
-01469,Killingholme,Killingholme,
-01470,Isle of Skye  Edinbane,Isle of Skye  Edinbane,
-01471,Isle of Skye  Broadford,Isle of Skye  Broadford,
-01472,Grimsby,Grimsby,
-01473,Ipswich,Ipswich,
-01474,Gravesend,Gravesend,
-01475,Greenock,Greenock,
-01476,Grantham,Grantham,
-01477,Holmes Chapel,Congleton (see also 01260),
-01478,Isle of Skye  Portree,Isle of Skye  Portree,
-01479,Grantown-on-Spey,Grantown-on-Spey,
-01480,Huntingdon,Huntingdon,
-01481,Guernsey,Guernsey,
-01482,Hull,Hull,
-01483,Guildford,Guildford,
-01484,Huddersfield,Huddersfield,
-01485,Hunstanton,Docking,
-01487,Warboys,Warboys,
-01488,Hungerford,Great Shefford,
-01489,Bishops Waltham,Fareham (see also 01329),
-01490,Corwen,Corwen,
-01491,Henley-on-Thames,Nettlebed,
-01492,Colwyn Bay,Colwyn Bay,
-01493,Great Yarmouth,Great Yarmouth,
-01494,High Wycombe,High Wycombe,
-01495,Pontypool,Pontypool,
-01496,Port Ellen,Port Ellen,
-01497,Hay-on-Wye,Hay-on-Wye,
-01499,Inveraray,Inveraray,
-01501,Harthill,Harthill,
-01502,Lowestoft,Lowestoft,
-01503,Looe,Looe,
-01505,Johnstone,Johnstone,
-01506,Bathgate,Bathgate,
-01507,Alford (Lincs) / Louth / Spilsby,Alford (Lincs) / Louth / Spilsby (see also 01790),Spilsby itself is actually 01790.
-01508,Brooke,Brooke,
-01509,Loughborough,Loughborough,
-0151,Liverpool,Liverpool,
-01520,Lochcarron,Lochcarron,
-01522,Lincoln,Lincoln,
-01524,Lancaster,Lancaster,
-015242,Hornby,Hornby,
-01525,Leighton Buzzard,Leighton Buzzard,
-01526,Martin,Martin,
-01527,Redditch,Redditch,
-01528,Laggan,Laggan,
-01529,Sleaford,Sleaford,
-01530,Coalville,Coalville,
-01531,Ledbury,Ledbury,
-01534,Jersey,Jersey,
-01535,Keighley,Keighley,
-01536,Kettering,Kettering,
-01538,Ipstones,Ipstones,
-01539,Kendal,Kendal,
-015394,Hawkshead,Hawkshead,
-015395,Grange-Over-Sands,Grange-Over-Sands,
-015396,Sedbergh,Sedbergh,
-01540,Kingussie,Kingussie,
-01542,Keith,Keith,
-01543,Cannock,Burntwood,
-01544,Kington,Kington,
-01545,Llanarth,Llanarth,
-01546,Lochgilphead,Lochgilphead,
-01547,Knighton,Knighton,
-01548,Kingsbridge,Kingsbridge,
-01549,Lairg,Lairg,
-01550,Llandovery,Llandovery,
-01553,Kings Lynn,Kings Lynn,
-01554,Llanelli,Llanelli,
-01555,Lanark,Lanark,
-01556,Castle Douglas,Castle Douglas,
-01557,Kirkcudbright,Kirkcudbright,
-01558,Llandeilo,Llandeilo,
-01559,Llandysul,Llandysul,
-01560,Moscow,Moscow,
-01561,Laurencekirk,Fordoun,
-01562,Kidderminster,Stourbridge (see also 01384),
-01563,Kilmarnock,Kilmarnock,
-01564,Lapworth,Lapworth,
-01565,Knutsford,Knutsford,
-01566,Launceston,Launceston,
-01567,Killin,Killin,
-01568,Leominster,Leominster,
-01569,Stonehaven,Stonehaven,
-01570,Lampeter,Lampeter,
-01571,Lochinver,Lochinver,
-01572,Oakham,Oakham,
-01573,Kelso,Kelso,
-01575,Kirriemuir,Kirriemuir,
-01576,Lockerbie,Lockerbie,
-01577,Kinross,Kinross,
-01578,Lauder,Lauder,
-01579,Liskeard,Liskeard,
-01580,Cranbrook,Cranbrook,
-01581,New Luce,New Luce,
-01582,Luton,Markyate (see also 01442),
-01583,Carradale,Carradale,
-01584,Ludlow,Ludlow,
-01586,Campbeltown,Campbeltown,
-01588,Bishops Castle,Craven Arms,
-01590,Lymington,Lymington,
-01591,Llanwrtyd Wells,Llanwrtyd Wells,
-01592,Kirkcaldy,Kirkcaldy,
-01593,Lybster,Lybster,
-01594,Lydney,Lydney,
-01595,Lerwick / Foula / Fair Isle,Lerwick / Foula / Fair Isle,
-01597,Llandrindod Wells,Llandrindod Wells,
-01598,Lynton,Brayford,
-01599,Kyle,Kyle,
-01600,Monmouth,Monmouth,
-01603,Norwich,Norwich,
-01604,Northampton,Northampton,
-01606,Northwich,Northwich,
-01608,Chipping Norton,Chipping Norton,
-01609,Northallerton,Northallerton,
-0161,Manchester,Manchester,
-01620,North Berwick,North Berwick,
-01621,Maldon,Maldon,
-01622,Maidstone,Maidstone,
-01623,Mansfield,Mansfield,
-01624,Isle of Man,Isle of Man,
-01625,Macclesfield,Macclesfield,
-01626,Newton Abbot,Newton Abbot,
-01628,Maidenhead,Maidenhead,
-01629,Matlock,Matlock,
-01630,Market Drayton,Market Drayton,
-01631,Oban,Oban,
-01633,Newport,Newport,
-01634,Medway,Medway,
-01635,Newbury,Newbury,
-01636,Newark,Newark,
-01637,Newquay,Newquay (see also 01841),
-01638,Newmarket,Newmarket,
-01639,Neath,Neath,
-01641,Strathy,Strathy,
-01642,Middlesbrough,Middlesbrough,
-01643,Minehead,Minehead,
-01644,New Galloway,New Galloway,
-01646,Milford Haven,Milford Haven,
-01647,Moretonhampstead,Moretonhampstead,
-01650,Cemmaes Road,Cemmaes Road,
-01651,Oldmeldrum,Oldmeldrum,
-01652,Brigg,Brigg,
-01653,Malton,Malton,
-01654,Machynlleth,Machynlleth,
-01655,Maybole,Maybole,
-01656,Bridgend,Bridgend,
-01659,Sanquhar,Sanquhar,
-01661,Prudhoe,Wylam,
-01663,New Mills,New Mills,
-01664,Melton Mowbray,Melton Mowbray,
-01665,Alnwick,Alnwick,
-01666,Malmesbury,Malmesbury,
-01667,Nairn,Nairn,
-01668,Bamburgh,Belford,
-01669,Rothbury,Rothbury,
-01670,Morpeth,Morpeth,
-01671,Newton Stewart,Newton Stewart,
-01672,Marlborough,Marlborough,
-01673,Market Rasen,Market Rasen,
-01674,Montrose,Montrose,
-01675,Coleshill,Meriden (see also 01676),
-01676,Meriden,Meriden (see also 01675),
-01677,Bedale,Bedale,
-01678,Bala,Bala,
-01680,Isle of Mull  Craignure,Isle of Mull  Craignure,
-01681,Isle of Mull  Fionnphort,Isle of Mull  Fionnphort,
-01683,Moffat,Moffat,
-01684,Malvern,Hanley Swan,
-01685,Merthyr Tydfil,Merthyr Tydfil,
-01686,Llanidloes / Newtown,Llanidloes / Newtown,
-01687,Mallaig,Mallaig,
-01688,Isle of Mull  Tobermory,Isle of Mull  Tobermory,
-01689,Orpington,Swanley (see also 01322 and 01959),
-01690,Betws-y-Coed,Betws-y-Coed,
-01691,Oswestry,Oswestry,
-01692,North Walsham,North Walsham,
-01694,Church Stretton,Church Stretton,
-01695,Skelmersdale,Rainford (see also 01744),
-01697,Brampton,Brampton,"For new, 6 digit numbers"
-016973,Wigton,Wigton,
-016974,Raughton Head,Raughton Head,
-016977,Brampton,Brampton,Original code for 4 and 5 digit numbers
-01698,Motherwell,Motherwell,
-01700,Rothesay,Rothesay,
-01702,Southend-on-Sea,Southend-on-Sea,
-01704,Southport,Southport,
-01706,Rochdale,Rochdale,
-01707,Welwyn Garden City,Colney Heath (see also 01727),
-01708,Romford,Romford,
-01709,Rotherham,Rotherham,
-01720,Isles of Scilly,Scillonia,
-01721,Peebles,Peebles,
-01722,Salisbury,Salisbury,
-01723,Scarborough,Scarborough,
-01724,Scunthorpe,Scunthorpe,
-01725,Rockbourne,Rockbourne,
-01726,St Austell,St Austell,
-01727,St Albans,Colney Heath (see also 01707),
-01728,Saxmundham,Saxmundham,
-01729,Settle,Settle,
-01730,Petersfield,Petersfield,
-01732,Sevenoaks,Sevenoaks,
-01733,Peterborough,Peterborough,
-01736,Penzance,Penzance,
-01737,Redhill,Merstham (see also 01883),
-01738,Perth,Perth,
-01740,Sedgefield,Sedgefield,
-01743,Shrewsbury,Shrewsbury,
-01744,St Helens,Rainford (see also 01695),
-01745,Rhyl,Rhyl,
-01746,Bridgnorth,Bridgnorth,
-01747,Shaftesbury,Shaftesbury,
-01748,Richmond,Richmond,
-01749,Shepton Mallet,Shepton Mallet,
-01750,Selkirk,Selkirk,
-01751,Pickering,Pickering,
-01752,Plymouth,Plymouth,
-01753,Slough,Iver (see also 01784 and 01895),
-01754,Skegness,Skegness,
-01756,Skipton,Skipton,
-01757,Selby,Selby,
-01758,Pwllheli,Pwllheli,
-01759,Pocklington,Pocklington,
-01760,Swaffham,Swaffham,
-01761,Temple Cloud,Temple Cloud,
-01763,Royston,Royston,
-01764,Crieff,Crieff,
-01765,Ripon,Ripon,
-01766,Porthmadog,Porthmadog,
-01767,Sandy,Sandy,
-01768,Penrith,Penrith,
-017683,Appleby,Appleby,
-017684,Pooley Bridge,Pooley Bridge,
-017687,Keswick,Keswick,
-01769,South Molton,South Molton,
-01770,Isle of Arran,Brodick,
-01771,Maud,Maud,
-01772,Preston,Preston,
-01773,Ripley,Ripley,
-01775,Spalding,Spalding,
-01776,Stranraer,Stranraer,
-01777,Retford,Retford,
-01778,Bourne,Bourne,
-01779,Peterhead,Peterhead,
-01780,Stamford,Stamford,
-01782,Stoke-on-Trent,Stoke-on-Trent,
-01784,Staines,Iver (see also 01753 and 01895),
-01785,Stafford,Stafford,
-01786,Stirling,Stirling,
-01787,Sudbury,Sudbury,
-01788,Rugby,Rugby,
-01789,Stratford-upon-Avon,Stratford-upon-Avon,
-01790,Spilsby,Spilsby (see also 01507),
-01792,Swansea,Swansea,
-01793,Swindon,Swindon,
-01794,Romsey,Romsey,
-01795,Sittingbourne,Sittingbourne,
-01796,Pitlochry,Pitlochry,
-01797,Rye,Rye,
-01798,Pulborough,Pulborough,
-01799,Saffron Walden,Saffron Walden,
-01803,Torquay,Torquay,
-01805,Torrington,Torrington,
-01806,Shetland,Voe,
-01807,Ballindalloch,Coupar Angus (see also 01828),
-01808,Tomatin,Tomatin,
-01809,Tomdoun,Tomdoun,
-01821,Kinrossie,Kinrossie,
-01822,Tavistock,Tavistock,
-01823,Taunton,Taunton,
-01824,Ruthin,Ruthin,
-01825,Uckfield,Uckfield,
-01827,Tamworth,Tamworth,
-01828,Coupar Angus,Coupar Angus (see also 01821),
-01829,Tarporley,Tarporley,
-01830,Kirkwhelpington,Kirkwhelpington,
-01832,Clopton,Clopton,
-01833,Barnard Castle,Barnard Castle,
-01834,Narberth,Narberth,
-01835,St Boswells,St Boswells,
-01837,Okehampton,Okehampton,
-01838,Dalmally,Dalmally,
-01840,Camelford,Camelford,
-01841,Newquay,Newquay (see also 01637),Actually for Padstow; Newquay uses 01637.
-01842,Thetford,Thetford,
-01843,Thanet,Thanet,
-01844,Thame,Thame,
-01845,Thirsk,Thirsk,
-01847,Thurso / Tongue,Thurso / Tongue,
-01848,Thornhill,Thornhill,
-01851,Great Bernera / Stornoway,Great Bernera / Stornoway,
-01852,Kilmelford,Kilmelford,
-01854,Ullapool,Ullapool,
-01855,Ballachulish,Ballachulish,
-01856,Orkney,Kirkwall,
-01857,Sanday,Sanday,
-01858,Market Harborough,Market Harborough,
-01859,Harris,Harris,
-01862,Tain,Tain,
-01863,Ardgay,Ardgay,
-01864,Abington,Abington,
-01865,Oxford,Oxford,
-01866,Kilchrenan,Kilchrenan,
-01869,Bicester,Bicester,
-01870,Isle of Benbecula,Isle of Benbecula,
-01871,Castlebay,Castlebay,
-01872,Truro,Truro,
-01873,Abergavenny,Abergavenny,
-01874,Brecon,Brecon,
-01875,Tranent,Tranent,
-01876,Lochmaddy,Lochmaddy,
-01877,Callandar,Trossachs,
-01878,Lochboisdale,Lochboisdale,
-01879,Scarinish,Scarinish,
-01880,Tarbert,Tarbert,
-01882,Kinloch Rannoch,Kinloch Rannoch,
-01883,Caterham,Merstham (see also 01737),
-01884,Tiverton,Tiverton,
-01885,Pencombe,Bromyard (see also 01886),Also commonly used for neighbouring Bromyard instead of 01886.
-01886,Bromyard,Bromyard (see also 01885),Generally used for rural area east of Bromyard; the town uses mostly 01885.
-01887,Aberfeldy,Aberfeldy,
-01888,Turriff,Turriff,
-01889,Rugely,Dapple Heath,
-01890,Ayton / Coldstream,Ayton / Coldstream,
-01892,Tunbridge Wells,Tunbridge Wells,
-01895,Uxbridge,Iver (see also 01753 and 01784),
-01896,Galashiels,Galashiels,
-01899,Biggar,Biggar,
-01900,Workington,Workington,
-01902,Wolverhampton,Wolverhampton (see also 01922),
-01903,Worthing,Worthing,
-01904,York,York,
-01905,Worcester,Worcester,
-01908,Milton Keynes,Wolverton,
-01909,Worksop,Worksop,
-01915,Sunderland
-01914,Tyneside
-01913,Durham
-01920,Ware,Knebworth (see also 01438),
-01922,Walsall,Wolverhampton (see also 01902),
-01923,Watford,Watford,
-01924,Wakefield,Wakefield,
-01925,Warrington,Warrington,
-01926,Warwick,Leamington Spa,
-01928,Runcorn,Frodsham,
-01929,Wareham,Wareham,
-01931,Shap,Shap,
-01932,Weybridge,Esher (see also 01372),
-01933,Wellingborough,Wellingborough,
-01934,Weston-Super-Mare,Weston-Super-Mare,
-01935,Yeovil,Yeovil,
-01937,Wetherby,Wetherby,
-01938,Welshpool,Welshpool,
-01939,Wem,Wem,
-01942,Wigan,Wigan,
-01943,Guiseley,Guiseley,
-01944,West Heslerton,West Heslerton,
-01945,Wisbech,Wisbech,
-01946,Whitehaven,Whitehaven,
-019467,Gosforth,Gosforth,
-01947,Whitby,Whitby,
-01948,Whitchurch,Whitchurch,
-01949,Whatton,Whatton,
-01950,Sandwick,Sandwick,
-01951,Colonsay,Colonsay,
-01952,Telford,Wellington,
-01953,Wymondham,Attleborough,
-01954,Madingley,Madingley,
-01955,Wick,Wick,
-01957,Mid Yell,Mid Yell,
-01959,Westerham,Swanley (see also 01322 and 01689),
-01962,Winchester,Winchester,
-01963,Wincanton,Templecombe,
-01964,Hornsea / Patrington,Hornsea / Patrington,
-01967,Strontian,Strontian,
-01968,Penicuik,Penicuik,
-01969,Leyburn,Leyburn,
-01970,Aberystwyth,Aberystwyth,
-01971,Scourie,Scourie,
-01972,Glenborrodale,Glenborrodale,
-01974,Llanon,Llanon,
-01975,Alford (Aberdeen) / Strathdon,Alford (Aberdeen) / Strathdon,
-01977,Pontefract,Pontefract,
-01978,Wrexham,Wrexham,
-01980,Amesbury,Bulford Camp,
-01981,Wormbridge,Wormbridge,
-01982,Builth Wells,Builth Wells,
-01983,Isle of Wight,Ryde,
-01984,Watchet,Stogumber,
-01985,Warminster,Warminster,
-01986,Bungay,Bungay,
-01987,Ebbsfleet,n/a (new code introduced in 2008),
-01988,Wigtown,Wigtown,
-01989,Ross-on-Wye,Ross-on-Wye,
-01992,Lea Valley,Hoddesdon,
-01993,Witney,Witney,
-01994,St Clears,St Clears,
-01995,Garstang,Garstang,
-01997,Strathpeffer,Strathpeffer,
-020,London,London,
-0238,Southampton,Southampton,
-0239,Portsmouth,Portsmouth,
-024,Coventry,Coventry,
-028,Northern Ireland,Northern Ireland,
-029,Cardiff,Cardiff,
-030,goverment,geographic rate
-033,any org, geographic rate
-034,any,084 replacement
-037,any,087 replacement
+CITY,AREA CODE
+LONDON,20
+COVENTRY,24
+CARDIFF,29
+LEEDS,113
+SHEFFIELD,114
+NOTTINGHAM,115
+LEICESTER,116
+BRISTOL,117
+READING,118
+BIRMINGHAM,121
+EDINBURGH,131
+GLASGOW,141
+LIVERPOOL,151
+MANCHESTER,161
+SOUTHAMPTON,238
+PORTSMOUTH,239
+TOLL-FREE 800,800
+TOLL-FREE 808,808
+NATIONAL 844,844
+NATIONAL 845,845
+CLITHEROE,1200
+BOURNEMOUTH,1202
+BOLTON,1204
+BOSTON,1205
+COLCHESTER,1206
+CONSETT,1207
+BODMIN,1208
+REDRUTH,1209
+CAMBRIDGE,1223
+ABERDEEN,1224
+BATH,1225
+BARNSLEY,1226
+CANTERBURY,1227
+CARLISLE,1228
+ASHFORD (KENT),1233
+BEDFORD,1234
+ABINGDON,1235
+COATBRIDGE,1236
+BIDEFORD,1237
+CARDIGAN,1239
+ARBROATH,1241
+CHELTENHAM,1242
+CHICHESTER,1243
+CHESTER,1244
+CHELMSFORD,1245
+CHESTERFIELD,1246
+BANGOR (GWYNEDD),1248
+CHIPPENHAM,1249
+BLAIRGOWRIE,1250
+ALDERSHOT,1252
+BLACKPOOL,1253
+BLACKBURN,1254
+CLACTON-ON-SEA,1255
+BASINGSTOKE,1256
+COPPULL,1257
+BLANDFORD,1258
+ALLOA,1259
+CONGLETON,1260
+BANFF,1261
+BRIDLINGTON,1262
+CROMER,1263
+ANDOVER,1264
+CARMARTHEN,1267
+BASILDON,1268
+AMMANFORD,1269
+CREWE,1270
+BARNSTABLE,1271
+BRIGHTON,1273
+BRADFORD,1274
+CLEVEDON,1275
+CAMBERLEY,1276
+BRENTWOOD,1277
+BRIDGWATER,1278
+BISHOPS STORTFORD,1279
+BUCKINGHAM,1280
+BURNLEY,1282
+BURTON-ON-TRENT,1283
+BURY-ST-EDMUNDS,1284
+CIRENCESTER,1285
+CAERNARVON,1286
+GUISBOROUGH,1287
+BUDE,1288
+BERWICK-ON-TWEED,1289
+CUMNOCK,1290
+CHEPSTOW,1291
+AYR,1292
+CRAWLEY,1293
+ARDROSSAN,1294
+BANBURY,1295
+AYLESBURY,1296
+AXMINSTER,1297
+BUXTON,1298
+BEWDLEY,1299
+CERNE ABBAS,1300
+ARROCHAR,1301
+DONCASTER,1302
+FOLKESTONE,1303
+DOVER,1304
+DORCHESTER,1305
+DORKING,1306
+FORFAR,1307
+BRIDPORT,1308
+FORRES,1309
+FORT AUGUSTUS,1320
+DARTFORD,1322
+EASTBOURNE,1323
+FALKIRK,1324
+DARLINGTON,1325
+FALMOUTH,1326
+DAVENTRY,1327
+FAKENHAM,1328
+FAREHAM,1329
+BANCHORY,1330
+DERBY,1332
+PEAT INN,1333
+ST ANDREWS,1334
+ASHBOURNE,1335
+LADYBANK,1337
+CRAIGELLACHIE,1340
+BARMOUTH,1341
+EAST GRINSTEAD,1342
+ELGIN,1343
+BRACKNELL,1344
+FRASERBURGH,1346
+EASINGWOLD,1347
+FISHGUARD,1348
+DINGWALL,1349
+DUNKELD,1350
+MOLD,1352
+ELY,1353
+CHATTERIS,1354
+EAST KILBRIDE,1355
+BRECHIN,1356
+STRATHAVEN,1357
+ELLON,1358
+PAKENHAM,1359
+KILLEARN,1360
+DUNS,1361
+DEREHAM,1362
+CREDITON,1363
+ASHBURTON,1364
+DOWNHAM MARKET,1366
+FARINGDON,1367
+DUNBAR,1368
+DUNOON,1369
+GREAT DUNMOW,1371
+ESHER,1372
+FROME,1373
+GRAYS THURROCK,1375
+BRAINTREE,1376
+DRIFFIELD,1377
+DISS,1379
+DEVIZES,1380
+FORTROSE,1381
+DUNDEE,1382
+DUNFERMLINE,1383
+DUDLEY,1384
+EVESHAM,1386
+DUMFRIES,1387
+DUMBARTON,1389
+EXETER,1392
+FELIXSTOWE,1394
+BUDLEIGH SALTERTON,1395
+FORT WILLIAM,1397
+DULVERTON,1398
+HONINGTON,1400
+HORSHAM,1403
+HONITON,1404
+GOOLE,1405
+HOLBEACH,1406
+HOLYHEAD,1407
+GOLSPIE,1408
+HOLSWORTHY,1409
+ALTON,1420
+HALIFAX,1422
+HASTINGS,1424
+RINGWOOD,1425
+GAINSBOROUGH,1427
+HASLEMERE,1428
+HARTLEPOOL,1429
+HELMSDALE,1431
+HEREFORD,1432
+HATHERSAGE,1433
+HEATHFIELD,1435
+HELENSBURGH,1436
+STEVENAGE,1438
+HELMSLEY,1439
+HAVERHILL,1440
+HEMEL HEMPSTEAD,1442
+PONTYPRIDD,1443
+HAYWARDS HEATH,1444
+GAIRLOCH,1445
+BARRY,1446
+STOWMARKET,1449
+HAWICK,1450
+STOW-ON-THE-WOLD,1451
+GLOUCESTER,1452
+DURSLEY,1453
+CHIPPING SODBURY,1454
+HINCKLEY,1455
+GLENURQUHART,1456
+GLOSSOP,1457
+GLASTONBURY,1458
+CHARD,1460
+GRETNA,1461
+HITCHIN,1462
+INVERNESS,1463
+INSCH,1464
+GIRVAN,1465
+HUNTLY,1466
+INVERURIE,1467
+KILLINGHOLME,1469
+ISLE OF SKYE,1470
+GRIMSBY,1472
+IPSWICH,1473
+GRAVESEND,1474
+GREENOCK,1475
+GRANTHAM,1476
+HOLMES CHAPEL,1477
+GRANTOWN-ON-SPEY,1479
+HUNTINGDON,1480
+HULL,1482
+GUILDFORD,1483
+HUDDERSFIELD,1484
+HUNSTANTON,1485
+WARBOYS,1487
+HUNGERFORD,1488
+BISHOPS WALTHAM,1489
+CORWEN,1490
+HENLEY-ON-THAMES,1491
+COLWYN,1492
+GREAT YARMOUTH,1493
+HIGH,1494
+PONTYPOOL,1495
+PORT,1496
+HAY-ON-WYE,1497
+INVERARAY,1499
+HARTHILL,1501
+LOWESTOFT,1502
+LOOE,1503
+JOHNSTONE,1505
+BATHGATE,1506
+BROOKE,1508
+LOUGHBOROUGH,1509
+LOCHCARRON,1520
+LINCOLN,1522
+LANCASTER,1524
+LEIGHTON BUZZARD,1525
+MARTIN,1526
+REDDITCH,1527
+LAGGAN,1528
+SLEAFORD,1529
+COALVILLE,1530
+LEDBURY,1531
+KEIGHLEY,1535
+KETTERING,1536
+IPSTONES,1538
+KENDAL,1539
+KINGUSSIE,1540
+KEITH,1542
+CANNOCK,1543
+KINGTON,1544
+LLANARTH,1545
+LOCHGILPHEAD,1546
+KNIGHTON,1547
+KINGSBRIDGE,1548
+LAIRG,1549
+LLANDOVERY,1550
+KINGS LYNN,1553
+LLANELLI,1554
+LANARK,1555
+CASTLE DOUGLAS,1556
+KIRKCUDBRIGHT,1557
+LLANDEILO,1558
+LLANDYSSUL,1559
+MOSCOW,1560
+LAURENCEKIRK,1561
+KIDDERMINSTER,1562
+KILMARNOCK,1563
+LAPWORTH,1564
+KNUTSFORD,1565
+LAUNCESTON,1566
+KILLIN,1567
+LEOMINSTER,1568
+STONEHAVEN,1569
+LAMPETER,1570
+LOCHINVER,1571
+OAKHAM,1572
+KELSO,1573
+KIRRIEMUIR,1575
+LOCKERBIE,1576
+KINROSS,1577
+LAUDER,1578
+LISKEARD,1579
+CRANBROOK,1580
+NEW LUCE,1581
+LUTON,1582
+CARRADALE,1583
+LUDLOW,1584
+CAMPBELTOWN,1586
+BISHOPS CASTLE,1588
+LYMINGTON,1590
+LLANWRTYD WELLS,1591
+KIRKCALDY,1592
+LYBSTER,1593
+LYDNEY,1594
+LERWICK,1595
+LLANDRINDOD WELLS,1597
+LYNTON,1598
+KYLE,1599
+MONMOUTH,1600
+NORWICH,1603
+NORTHAMPTON,1604
+NORTHWICH,1606
+CHIPPING NORTON,1608
+NORTHALLERTON,1609
+NORTH BERWICK,1620
+MALDON,1621
+MAIDSTONE,1622
+MANSFIELD,1623
+MACCLESFIELD,1625
+NEWTON ABBOT,1626
+MAIDENHEAD,1628
+MATLOCK,1629
+MARKET DRAYTON,1630
+OBAN,1631
+NEWPORT,1633
+MEDWAY,1634
+NEWBURY,1635
+NEWARK,1636
+NEWQUAY,1637
+NEWMARKET,1638
+NEATH,1639
+STRATHY,1641
+MIDDLESBROUGH,1642
+MINEHEAD,1643
+NEW GALLOWAY,1644
+MILFORD HAVEN,1646
+MORETONHAMPSTEAD,1647
+CEMMAES ROAD,1650
+OLDMELDRUM,1651
+BRIGG,1652
+MALTON,1653
+MACHYNLLETH,1654
+MAYBOLE,1655
+BRIDGEND,1656
+SANQUHAR,1659
+PRUDHOE,1661
+NEW,1663
+MELTON MOWBRAY,1664
+ALNWICK,1665
+MALMESBURY,1666
+NAIRN,1667
+BAMBURGH,1668
+ROTHBURY,1669
+MORPETH,1670
+NEWTON STEWART,1671
+MARLBOROUGH,1672
+MARKET RASEN,1673
+MONTROSE,1674
+COLESHILL,1675
+MERIDEN,1676
+BEDALE,1677
+BALA,1678
+MOFFAT,1683
+MALVERN,1684
+MERTHYR TYDFIL,1685
+MALLAIG,1687
+ORPINGTON,1689
+BETWS-Y-COED,1690
+OSWESTRY,1691
+NORTH WALSHAM,1692
+CHURCH STRETTON,1694
+SKELMERSDALE,1695
+BRAMPTON,1697
+MOTHERWELL,1698
+ROTHESAY,1700
+SOUTHEND-ON-SEA,1702
+SOUTHPORT,1704
+ROCHDALE,1706
+WELWYN GARDEN CITY,1707
+ROMFORD,1708
+ROTHERHAM,1709
+ISLES OF SCILLY,1720
+PEEBLES,1721
+SALISBURY,1722
+SCARBOROUGH,1723
+SCUNTHORPE,1724
+ROCKBOURNE,1725
+ST AUSTELL,1726
+ST ALBANS,1727
+SAXMUNDHAM,1728
+SETTLE,1729
+PETERSFIELD,1730
+SEVENOAKS,1732
+PETERBOROUGH,1733
+PENZANCE,1736
+REDHILL,1737
+PERTH,1738
+SEDGEFIELD,1740
+SHREWSBURY,1743
+ST HELENS,1744
+RHYL,1745
+BRIDGNORTH,1746
+SHAFTESBURY,1747
+RICHMOND,1748
+SHEPTON MALLET,1749
+SELKIRK,1750
+PICKERING,1751
+PLYMOUTH,1752
+SLOUGH,1753
+SKEGNESS,1754
+SKIPTON,1756
+SELBY,1757
+PWLLHELI,1758
+POCKLINGTON,1759
+SWAFFHAM,1760
+TEMPLE CLOUD,1761
+ROYSTON,1763
+CRIEFF,1764
+RIPON,1765
+PORTHMADOG,1766
+SANDY,1767
+PENRITH,1768
+SOUTH MOLTON,1769
+ISLE OF ARRAN,1770
+MAUD,1771
+PRESTON,1772
+RIPLEY,1773
+SPALDING,1775
+STRANRAER,1776
+RETFORD,1777
+BOURNE,1778
+PETERHEAD,1779
+STAMFORD,1780
+STOKE-ON-TRENT,1782
+STAINES,1784
+STAFFORD,1785
+STIRLING,1786
+SUDBURY,1787
+RUGBY,1788
+STRATFORD-UPON-AVON,1789
+SWANSEA,1792
+SWINDON,1793
+ROMSEY,1794
+SITTINGBOURNE,1795
+PITLOCHRY,1796
+RYE,1797
+PULBOROUGH,1798
+SAFFRON WALDEN,1799
+TORQUAY,1803
+TORRINGTON,1805
+SHETLAND,1806
+BALLINDALLOCH,1807
+TOMATIN,1808
+TOMDOUN,1809
+KINROSSIE,1821
+TAVISTOCK,1822
+TAUNTON,1823
+RUTHIN,1824
+UCKFIELD,1825
+TAMWORTH,1827
+COUPAR ANGUS,1828
+TARPORLEY,1829
+KIRKWHELPINGTON,1830
+CLOPTON,1832
+BARNARD CASTLE,1833
+NARBERTH,1834
+ST BOSWELLS,1835
+OKEHAMPTON,1837
+DALMALLY,1838
+CAMELFORD,1840
+NEWQUAY,1841
+THETFORD,1842
+THANET,1843
+THAME,1844
+THIRSK,1845
+THORNHILL,1848
+KILMELFORD,1852
+ULLAPOOL,1854
+BALLACHULISH,1855
+ORKNEY,1856
+SANDAY,1857
+MARKET HARBOROUGH,1858
+HARRIS,1859
+TAIN,1862
+ARDGAY,1863
+ABINGTON,1864
+OXFORD,1865
+KILCHRENAN,1866
+BICESTER,1869
+ISLE OF BENBECULA,1870
+CASTLEBAY,1871
+TRURO,1872
+ABERGAVENNY,1873
+BRECON,1874
+TRANENT,1875
+LOCHMADDY,1876
+CALLANDAR,1877
+LOCHBOISDALE,1878
+SCARINISH,1879
+TARBERT,1880
+KINLOCH RANNOCH,1882
+CATERHAM,1883
+TIVERTON,1884
+PENCOMBE,1885
+BROMYARD,1886
+ABERFELDY,1887
+TURRIFF,1888
+RUGELY,1889
+TUNBRIDGE WELLS,1892
+UXBRIDGE,1895
+GALASHIELS,1896
+BIGGAR,1899
+WORKINGTON,1900
+WOLVERHAMPTON,1902
+WORTHING,1903
+YORK,1904
+WORCESTER,1905
+MILTON KEYNES,1908
+WORKSOP,1909
+DURHAM,1913
+TYNESIDE,1914
+SUNDERLAND,1915
+WARE,1920
+WALSALL,1922
+WATFORD,1923
+WAKEFIELD,1924
+WARRINGTON,1925
+WARWICK,1926
+RUNCORN,1928
+WAREHAM,1929
+SHAP,1931
+WEYBRIDGE,1932
+WELLINGBOROUGH,1933
+WESTON-SUPER-MARE,1934
+YEOVIL,1935
+WETHERBY,1937
+WELSHPOOL,1938
+WEM,1939
+WIGAN,1942
+GUISELEY,1943
+WEST HESLERTON,1944
+WISBECH,1945
+WHITEHAVEN,1946
+WHITBY,1947
+WHITCHURCH,1948
+WHATTON,1949
+SANDWICK,1950
+COLONSAY,1951
+TELFORD,1952
+WYMONDHAM,1953
+MADINGLEY,1954
+WICK,1955
+MID,1957
+WESTERHAM,1959
+WINCHESTER,1962
+WINCANTON,1963
+STRONTIAN,1967
+PENICUIK,1968
+LEYBURN,1969
+ABERYSTWYTH,1970
+SCOURIE,1971
+GLENBORRODALE,1972
+LLANON,1974
+PONTEFRACT,1977
+WREXHAM,1978
+AMESBURY,1980
+WORMBRIDGE,1981
+BUILTH WELLS,1982
+ISLE OF WIGHT,1983
+WATCHET,1984
+WARMINSTER,1985
+BUNGAY,1986
+EBBSFLEET,1987
+WIGTOWN,1988
+ROSS-ON-WYE,1989
+LEA,1992
+WITNEY,1993
+ST,1994
+GARSTANG,1995
+STRATHPEFFER,1997
+BALLYCASTLE,2820
+MARTINSTOWN,2821
+BALLYMENA,2825
+BALLYMONEY,2827
+LARNE,2828
+KILREA,2829
+NEWRY,2830
+ARMAGH,2837
+PORTADOWN,2838
+BANBRIDGE,2840
+ROSTREVOR,2841
+KIRCUBBIN,2842
+NEWCASTLE(CO. DOWN),2843
+DOWNPATRICK,2844
+ENNISKILLEN,2866
+LISNASKEA,2867
+KESH,2868
+COLERAINE,2870
+LONDONDERRY,2871
+LIMAVADY,2877
+MAGHERAFELT,2879
+CARRICKMORE,2880
+NEWTOWNSTEWART,2881
+OMAGH,2882
+BALLYGAWLEY,2885
+COOKSTOWN,2886
+DUNGANNON,2887
+FIVEMILETOWN,2889
+BANGOR(CO. DOWN),2891
+LISBURN,2892
+BALLYCLARE,2893
+ANTRIM,2894
+BELFAST,2895
+SAINTFIELD,2897
+MILLOM,12293
+MILLOM,12297
+BARROW-IN-FURNESS,12298
+BALLATER,13397
+ABOYNE,13398
+LANGHOLM,13873
+STANHOPE,13885
+BISHOP AUCKLAND,13887
+BOROUGHBRIDGE,14233
+HARROGATE,14237
+NORTH CAVE,14304
+MARKET WEIGHTON,14308
+BELLINGHAM,14342
+HALTWHISTLE,14343
+HEXHAM,14347
+CLYNDERWEN,14375
+HAVERFORDWEST,14377
+SPILSBY,15072
+ALFORD (LINCS),15074
+LOUTH,15076
+HORNBY,15242
+HAWKSHEAD,15394
+GRANGE-OVER-SANDS,15395
+SEDBERGH,15396
+LLANIDLOES,16864
+NEWTOWN,16866
+WIGTON,16973
+RAUGHTON,16974
+APPLEBY,17683
+POOLEY BRIDGE,17684
+KESWICK,17687
+SPILSBY,17907
+TONGUE,18476
+THURSO,18478
+STORNOWAY,18515
+GREAT BERNERA,18516
+STORNOWAY,18518
+AYTON,18907
+COLDSTREAM,18908
+GOSFORTH,19467
+HORNSEA,19642
+PATRINGTON,19646
+ALFORD (ABERDEEN),19755
+STRATHDON,19756
+FOULA,159575
+FAIR ISLE,159576
